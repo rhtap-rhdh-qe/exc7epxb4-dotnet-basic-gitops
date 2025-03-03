@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: exc7epxb4-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/exc7epxb4-dotnet-basic-gitops
